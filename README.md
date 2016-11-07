@@ -4,7 +4,9 @@ This assignment is for PB009. This is TODO MVC Application.
 ## Installation
 
 To Run this Application
+
 1. Go to the Git-Assignment Folder on console and type
+
 ```
 $ http-server
 ```
